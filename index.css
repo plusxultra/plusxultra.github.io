@@ -1,0 +1,37 @@
+#profile__container{
+    display: grid;
+}
+
+img{
+    max-width: 10rem;
+    height: auto;
+    border-style: none;
+    border-radius: 50%;
+    align-content: center;
+}
+
+h1{
+    margin-block-start: auto;
+    text-align: center;
+}
+
+.profile{
+    display: inline;
+    margin-inline-start: 44%;
+}
+
+.name{
+    display: inline;
+}
+
+hr{
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 0.25rem;
+    width: 5%;
+}
+
+body{
+    background-color: 	#afeeee;
+}
+
