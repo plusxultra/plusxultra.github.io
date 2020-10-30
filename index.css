@@ -1,0 +1,93 @@
+body{
+    text-align: center;
+}
+
+.pps{
+    background-color: #3797a4;
+    color: white;
+}
+
+.profile{
+    width: 20%;
+    border-radius: 50%;
+    padding-bottom: 0.75rem;
+}
+
+.container__profile{
+    padding-top: 2rem;
+    padding-bottom: 0.75rem;
+    background-color: #8bcdcd;
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: grey;
+    text-decoration: none;
+}
+
+.sn{
+    color: black;
+}
+/* projects section */
+
+
+
+/* Skills section */
+
+.fyt,.project,.skill,.for__you {
+    padding: 2% 3%;
+}
+
+/* for you */
+
+.for__you {
+    background-color: #cee397;
+}
+
+.for__you h1 {
+    color: #ec0101;
+    text-align: left;
+    font-size: 5rem;
+    font-family: 'Pacifico', cursive;
+    margin-left: -3%;
+}
+.for__you h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #0f3460;
+}
+
+.for__you h4 {
+    text-align: left;
+    margin-top: 2rem;
+    margin-left: -3%;
+    font-family: 'Barlow Condensed', sans-serif;
+    color: #440047;
+}
+
+.books,.songs,.movies,.games,.fyi {
+    color: black;
+    text-align: left;
+}
+
+/* footer section */
+
+footer {
+    background-color: teal;
+
+}
+.contact__me a {
+    padding: 5% 3%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-size: 2rem;
+}
+
+.contact__me a:hover{
+    color: black;
+}
